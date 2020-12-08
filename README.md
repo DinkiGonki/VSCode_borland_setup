@@ -39,3 +39,18 @@ start start.bat
 ```
 myprogramm.exe
 ```
+
+### Ошибка вида 
+```
+Executing task: cpp.bat Z:\github.com\VSCode_borland_setup\cpp.bat <
+
+cpp.bat : Имя "cpp.bat" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правильность написания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:1 знак:1
++ cpp.bat Z:\github.com\VSCode_borland_setup\cpp.bat
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (cpp.bat:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Процесс терминала "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -Command cpp.bat Z:\github.com\VSCode_borland_setup\cpp.bat" был завершен с кодом выхода 1.
+```
+
