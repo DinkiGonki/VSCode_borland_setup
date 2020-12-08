@@ -27,7 +27,7 @@ void page_1(){
 	Wind(5, 18, 65, 25, 0, 14);
 	textcolor(11);
 	gotoxy(10, 4); cputs("Выполнил студент группы ИП193");
-	gotoxy(10, 6); cputs("Евсеенко Илья");
+	gotoxy(10, 6); cputs("Бирюков Михаил");
 
 	Wind(15, 9, 60, 18, 0, 4);
 	textcolor(14);
@@ -37,6 +37,6 @@ void page_1(){
 
 	Wind(55, 21, 70, 23, 0, 5);
 	textcolor(10);
-	gotoxy(5, 2); cputs("Вариант 6");
+	gotoxy(5, 2); cputs("Вариант 2");
 	getch();
 }
