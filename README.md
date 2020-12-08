@@ -1,11 +1,11 @@
 # VSCode_borland_setup
 Описание сборки Borland файлов в VS Code
-
+![Alt-текст](https://i.imgur.com/JctkOdq.jpeg)
 ## Установка IDE
 1. Установите VSCode https://code.visualstudio.com/
 2. Чтобы был русский язык установите это [расширение](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)
 3. Скачайте [borland.zip](https://github.com/LencoDigitexer/VSCode_borland_setup/releases/download/borland/Borland.zip)
-4. Распакуйте на диск C. Должно получиться так: C:\Borland\. Если у вас уже есть папка Borland на диске C, то можете заменить файлы или удалить папку и заново скопировать новую
+4. Распакуйте на диск C. Путь Борланда должен выгядеть: C:\Borland\. Если у вас уже есть папка Borland на диске C, то можете заменить файлы или удалить папку и заново скопировать новую
 
 ## Настройка рабочего окружения
 1. Скачайте [vscode_borland.zip](https://github.com/LencoDigitexer/VSCode_borland_setup/releases/download/borland/vscode_borland.zip)
@@ -22,7 +22,7 @@
 Нажать на значок UTF-8 внизу как показано на картинке
 ![Alt-текст](https://i.stack.imgur.com/g24sD.jpg)
 <br>
-Сверху появится кнопочки - нужно нажать на "сохранить в кодировке "
+Сверху появится кнопочки - нужно нажать на "повторно открыть в кодировке "
 В текстовое поле ввести cp 866 и выбрать Cyrillic (cp 866)
 <br>
 ### Хочу поменять имя файла<br>
